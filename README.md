@@ -2,9 +2,9 @@
 ## 下载地址
 | windows | linux |
 |  :----  | :----  |
-|  [0.0.1](https://www.kortho.org/file/windows/1.zip)  | [0.0.1](https://www.kortho.org/file/linux/1.zip) |
+|  [0.0.1](https://www.kortho.org/file/windows/miner_windows_001.zip)  | [0.0.1](https://www.kortho.org/file/linux/miner_linux_001.zip) |
 
-    
+   
 ## 配置安装：
 ### windows下：
         第一步 在工作目录下创建挖矿目录，如 D:/miner（非C盘）。
